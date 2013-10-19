@@ -39,9 +39,9 @@ body {
 }
 
 #selectedNote textarea {
-    background: url('../notebook.png') repeat-y;
+    background: url('notebook.png') repeat-y;
     width: 80%;
-    height: 90%;
+    height: 80%;
     font: normal 14px verdana;
     line-height: 25px;
     padding: 2px 10px;
